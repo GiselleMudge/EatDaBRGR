@@ -1,0 +1,28 @@
+body {
+    background-color:   burlywood;
+    font-family: 'Lato', sans-serif;
+}
+
+* {
+    background-color: #FBF6C3;
+}
+
+/* for handlebars */
+pre {
+    background-color: #77F290;
+    font-size: 1.5em;
+    overflow: hidden;
+    font-family:'Amatic SC', cursive;
+}
+
+img {
+    width: 10%;
+}
+
+.form-control[readonly] {
+    color: black;
+    margin: 10px;
+    border: 30px;
+    font-size: 1.5em;
+    font-family: 'Amatic SC', cursive;
+}
